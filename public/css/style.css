@@ -1,0 +1,10 @@
+#post_list {
+    display: inline-block;
+    list-style: none;
+    img {
+        width: 20%;
+    }
+    hr{
+        margin-right: 70%;
+    }
+}
